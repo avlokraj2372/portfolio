@@ -51,7 +51,7 @@ export const projects: Project[] = [
       "Seamless content delivery system"
     ],
     githubUrl: "https://github.com/avlokraj2372/study-notion",
-    liveUrl: "https://study-notion-demo.vercel.app",
+    liveUrl: "https://study-notion-six-weld.vercel.app/",
     imageUrl: "https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=800",
     category: "web"
   },
